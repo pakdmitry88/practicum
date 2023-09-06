@@ -101,7 +101,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
         <div class="section-title">
           <h2>Github</h2>
-          <h3>Ссылка на <a target="_blank" href="https://github.com/pakdmitry88/vue-ya-practicum/tree/master/ya-practicum" class="github"><i class="bi bi-github"></i></a> данного проекта</h3>
+          <h3>Ссылка на <a target="_blank" href="https://github.com/pakdmitry88/practicum" class="github"><i class="bi bi-github"></i></a> данного проекта</h3>
         </div>
 
       </div>
